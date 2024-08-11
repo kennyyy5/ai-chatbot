@@ -26,8 +26,4 @@ https://www.loom.com/share/42641b1a5b6c4e4682997c8428979662?sid=dbc484b0-b244-4f
 ## Tech Stack
 I used NextJS, open ai API
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
